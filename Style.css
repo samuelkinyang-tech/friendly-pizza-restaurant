@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    width: 100%;
+}
+
+nav {
+    width: 100%;
+}
+
+.responsiveness-logo {
+    background-color: rgb(242, 242, 242);
+    padding: 10px;
+    width: 100%;
+}
+
+.default-logo {
+    background-color: white;
+    padding: 10px;
+    width: 100%;
+}
+
+.Page-Preview {
+    background-size: cover;
+}
